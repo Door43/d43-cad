@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cad:home|Door43 (cad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cad|d43-cad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cad/archive/master.zip|d43-cad.zip]]
+
+**Recent Changes**
+{{changes>ns = cad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cad|Ethnologue data]]
+
